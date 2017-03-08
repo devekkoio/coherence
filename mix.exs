@@ -36,7 +36,7 @@ defmodule Coherence.Mixfile do
     [
       {:ecto, "~> 2.0"},
       {:comeonin, "~> 2.4"},
-      {:phoenix, "~> 1.2"},
+      {:phoenix, "~> 1.3"},
       {:phoenix_html, "~> 2.6"},
       {:gettext, "~> 0.11"},
       {:uuid, "~> 1.0"},
